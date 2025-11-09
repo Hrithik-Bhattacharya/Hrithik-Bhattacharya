@@ -1,4 +1,5 @@
-## Hi there 👋
+## print("Hello there!") 
+
 
 <!--
 **Hrithik-Bhattacharya/Hrithik-Bhattacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
