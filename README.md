@@ -1,5 +1,9 @@
-## Hello there! I am Hrithik Bhattacharya, a student with an interest towards developing. I would love to work with collaborators to build something meaningful and impactful. Currently exploring ML and Full Stack but always open to try out new things. Looking forward to collaborate with y'all !!
+##👋 Hello there!
+I’m Hrithik Bhattacharya — a student passionate about building, learning, and collaborating 🤝. I love teaming up with curious minds to create something meaningful and impactful 🌱✨.
 
+Currently exploring Machine Learning 🤖 and Full Stack Development 🧩, but I’m always open to trying out new things 🛠️🧠.
+
+Looking forward to collaborating with y’all 🚀💬!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik-Bhattacharya&layout=compact&theme=radical&hide_border=true)
 
 
