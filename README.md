@@ -9,7 +9,7 @@
 
 ![GitHub Snake Animation](https://github.com/Hrithik-Bhattacharya/Hrithik-Bhattacharya/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub Snake Animation](https://github.com/Hrithik-Bhattacharya/Hrithik-Bhattacharya/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/Hrithik-Bhattacharya/Hrithik-Bhattacharya/github-contribution-grid-snake.svg)
 
 
 <!--
