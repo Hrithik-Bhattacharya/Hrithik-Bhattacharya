@@ -7,8 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik-Bhattacharya&layout=compact&theme=radical&hide_border=true)
 
 
-![Hrithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrithik-Bhattacharya&show_icons=true&theme=radical&hide_border=true)
-
 ![Hrithik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hrithik-Bhattacharya&theme=radical&hide_border=true)
 
 ![GitHub Snake Animation](https://github.com/Hrithik-Bhattacharya/Hrithik-Bhattacharya/blob/output/github-contribution-grid-snake.svg)
