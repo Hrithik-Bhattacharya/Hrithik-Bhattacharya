@@ -9,6 +9,9 @@
 
 ![GitHub Snake Animation](https://github.com/Hrithik-Bhattacharya/Hrithik-Bhattacharya/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Snake Animation](https://github.com/Hrithik-Bhattacharya/Hrithik-Bhattacharya/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **Hrithik-Bhattacharya/Hrithik-Bhattacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
