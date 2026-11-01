@@ -5,7 +5,7 @@
 
 ## Looking forward to collaborating with y’all 🚀💬!
 
-
+<img src = koi/koi.gif>
 <!--
 **Hrithik-Bhattacharya/Hrithik-Bhattacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
