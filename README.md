@@ -5,7 +5,28 @@
 
 ## Looking forward to collaborating with y’all 🚀💬!
 
-<img src = koi/koi.gif>
+<div align="center" style="position: relative; width: 100%;">
+
+  <img
+    src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    alt="Japanese Pond"
+    width="100%"
+  />
+
+  <div style="
+    position: relative;
+    margin-top: -220px;
+    padding-bottom: 20px;
+  ">
+    <img
+      src="https://raw.githubusercontent.com/Hrithik-Bhattacharya/Hrithik-Bhattacharya/main/koi/koi.gif"
+      width="320"
+      alt="Daily Koi"
+    />
+  </div>
+
+</div>
+<
 <!--
 **Hrithik-Bhattacharya/Hrithik-Bhattacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
